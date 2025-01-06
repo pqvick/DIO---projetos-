@@ -1,2 +1,1 @@
-# DIO---projetos-
-projetos do curso de design
+curso de design, AI, UI, UX.
